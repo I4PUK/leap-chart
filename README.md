@@ -1,4 +1,4 @@
-# Rick and Morty 
+# Leap Chart
 
 В этом проекте познакомился и применил на практике Clean Architecture.
 
@@ -8,7 +8,7 @@
   - Dependency Injection: (пакет get_it)
   - BloC, Cubit
   - Запросы к REST API: dio
-  - API: https://rickandmortyapi.com/api/
+  - API: https://www.alphavantage.co/
 
 ## Текущее состояние проекта
 ### В проекте реализованы и работают следующие элементы
@@ -19,7 +19,7 @@
 ## Превью 
 Главный экран:
 
-<img src="https://user-images.githubusercontent.com/47809649/216529486-cd3ca068-f41e-4050-b3f9-776d43c8040d.png" width="300" height="500" /> <img src="https://user-images.githubusercontent.com/47809649/216529486-cd3ca068-f41e-4050-b3f9-776d43c8040d.png" width="300" height="500" />
+<img src="https://user-images.githubusercontent.com/47809649/216529486-cd3ca068-f41e-4050-b3f9-776d43c8040d.png" width="300" height="500" /> 
 
 Подробная информация о компании:
 
